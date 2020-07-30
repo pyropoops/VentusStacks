@@ -1,0 +1,7 @@
+name: VentusStack
+version: ${project.version}
+main: com.pyropoops.ventusstack.VentusStack
+authors: [pyropoops]
+commands:
+  stack:
+    usage: /<command>
